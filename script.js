@@ -7,6 +7,7 @@ const PRODUCTS = [
         emoji: "🎧",
         description: "Comfortable wireless headphones for music and everyday listening."
     },
+    
     {
         id: 2,
         name: "Smart Watch",
